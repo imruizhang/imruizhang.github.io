@@ -2,7 +2,7 @@
 title: Jessie Blog
 SEOTitle: 三山的博客 | Jessie Blog
 header-img: img/home-bg.jpg
-email: @gmail.com
+email: imrui.zhang@gmail.com
 description: "Travel in China | 全球自由行攻略"
 keyword: "Blog, 博客, 个人网站, 旅行, Travel"
 url: "https://imruizhang.github.io" # your host, for absolute URL
@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: 
-zhihu_username: 
+#weibo_username: 
+#zhihu_username: 
 github_username: imruizhang
 twitter_username: imruizhang
 #facebook_username:  huxpro
