@@ -19,4 +19,4 @@ I think a lot of people heard about Shaolin Temple and I also saw quite a lot of
 
 **xxx**
 
-![](https://imruizhang.github.io/img/posts/20240724/budda.jpg)
+![](img/post/20240724/budda.jpg)
