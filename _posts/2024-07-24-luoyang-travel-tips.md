@@ -7,8 +7,8 @@ author:     "Jessie"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - Life
-    - Meta
+    - Travel
+    - China
 ---
 
 There are some many destinations that are not as famous as Beijing or Yangshuo for the foreigners. Why did I mention Yangshuo? Because I knew someone who went there just for climbing, I figure it should be a popular destination for people outside China. Plus people in Yangshuo already hosted so many foreigners while I visited there almost 20 years ago.
@@ -19,4 +19,4 @@ I think a lot of people heard about Shaolin Temple and I also saw quite a lot of
 
 **xxx**
 
-<center><img src='./assets/img/posts/20240724/budda.jpg'></center>
+![](https://imruizhang.github.io/img/posts/20240724/budda.jpg)
