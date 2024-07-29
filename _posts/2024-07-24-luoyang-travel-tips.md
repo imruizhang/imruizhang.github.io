@@ -28,10 +28,11 @@ I'm not going to write details about each place, because you can easily find tha
 
 1. [Longmen Grottoes](https://en.wikipedia.org/wiki/Longmen_Grottoes) 
 ![img](/img/in-post/post-luoyang/longmen.jpg){:height="30%" width="30%"}
-*Vairocana Budda, from Luoyang Travel's Wechat Official Account. Photo by xxx*
+*Vairocana Budda, from Luoyang Travel's Wechat Official Account. Photo by 曾宪平*
 
 2. Luoyang Museum
 ![img](/img/in-post/post-luoyang/lymuseum.jpg){:height="30%" width="30%"}
+*from Luoyang Travel's Wechat Official Account. Photo by 杨恒博*
 
 3. 
 
