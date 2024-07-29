@@ -14,7 +14,7 @@ There are so many destinations that are not as well known to people outside Chin
 
 I don't know if that's just my bias, because I saw a few foreigners when I was in Luoyang. And Henan province is famous for the Shaolin Temple.
 
-**Why Luoyang**
+### Why Luoyang?
 
 To be honest, I am writing this in the hope that more Chinese people will get to know the rich history of this city, which was the capital of 13 different dynasties. While we pay a lot of attention to the beautiful nature, we should not forget the beauty of historical places and cultures. Luoyang is one of those cities, it may not have the most amazing nature, but the ancient ruins and museums are another kind of amazing.
 
@@ -27,7 +27,7 @@ I think a lot of people have heard of the Shaolin Temple and I saw a lot of visi
 I'm not going to write details about each place, because you can easily find that information on Wiki. I will give tips based on my first hand experience.
 
 - [Longmen Grottoes](https://en.wikipedia.org/wiki/Longmen_Grottoes) 
-![img](/img/in-post/post-luoyang/longmen.jpeg){:height="40%" width="40%"}
+![img](/img/in-post/post-luoyang/longmen.jpeg){:width="300"}
 *<font size="1">Vairocana Budda. Photo by 曾宪平, from Luoyang Travel's Wechat Official Account.</font>*
 
 A must see place in Luoyang, the downside is tooooo many people. Longmen Hill (aka West Hill) is the main place with statues and you have to enter from the north entrance and exit from the south entrance. You cannot enter from the south. In summer there is a light show after sunset, but it is a separate ticket. 
