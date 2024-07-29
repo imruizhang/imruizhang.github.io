@@ -26,8 +26,8 @@ I think a lot of people have heard of the Shaolin Temple and I saw a lot of visi
 
 I'm not going to write details about each place, because you can easily find that information on Wiki. I will give tips based on my first hand experience.
 
-1. [Longmen Grottoes](https://en.wikipedia.org/wiki/Longmen_Grottoes) 
-![img](/img/in-post/post-luoyang/longmen.jpeg){:height="30%" width="30%"}
+- [Longmen Grottoes](https://en.wikipedia.org/wiki/Longmen_Grottoes) 
+![img](/img/in-post/post-luoyang/longmen.jpeg){:height="40%" width="40%"}
 *Vairocana Budda. Photo by 曾宪平, from Luoyang Travel's Wechat Official Account.*
 
 A must see place in Luoyang, the downside is tooooo many people. Longmen Hill (aka West Hill) is the main place with statues and you have to enter from the north entrance and exit from the south entrance. You cannot enter from the south. In summer there is a light show after sunset, but it is a separate ticket. 
@@ -38,17 +38,25 @@ Some say you can stay inside with the day ticket and enjoy the night show, but I
 
 Important note: except for the Xiangshan Temple, all the other sites close after 18:00. So you need to plan your trip very carefully. There are far fewer tourists at the East Hill Caves, but there are also fewer statues there. However, from the east side of the river you can get a good view of Longmen Hill.
 
-2. [Luoyang Museum](https://en.wikipedia.org/wiki/Luoyang_Museum)
-![img](/img/in-post/post-luoyang/lymuseum.jpeg){:height="30%" width="30%"}
+- [Luoyang Museum](https://en.wikipedia.org/wiki/Luoyang_Museum)
+![img](/img/in-post/post-luoyang/lymuseum.jpeg){:height="33%" width="33%"}
 *Photo by 杨恒博, from Luoyang Travel's Wechat Official Account.*
 
 It has collections from the Xia, Shang and Zhou dynasties and the main exhibits are from the Han and Tang dynasties. It is the place where you could learn about the history back to 21centry BC.
 
-3. 
+- [White Horse Temple](https://en.wikipedia.org/wiki/White_Horse_Temple)
+![img](/img/in-post/post-luoyang/whitehorse.jpeg){:height="33%" width="33%"}
+*Photo by 王煜文, from Luoyang Travel's Wechat Official Account.*
+
+It is the first Buddhist Temple in China, established in Eastern Han dynasty.
 
 **Tips for transports**
 
-You can ask the hostel staff and various taxi/uber drivers to get the actual price range for going somewhere a bit further away such as Longtan valley, Shaolin Temple and Laojun Mountain. In China there is no Uber but Didi or Gaode/Baidu Maps, but I would use 'Uber' for the internet based ride-hailing services in my article just to make it easier to understand. It is quite easy even if you use Uber for a one-way trip and call another one for the return trip, but my experience is the cost could be quite similar, no more than 5 EUR difference. So I recommended it for a return trip so you are more relaxed. Unless you plan to stay overnight, then a one-way Uber is more suitable.
+In China there is no Uber but Didi or Gaode/Baidu Maps, but I would use 'Uber' for the internet based ride-hailing services in my article just to make it easier to understand.
+
+You can get around the city with Uber with 10-15 Yuan (RMB) per trip, the longest ride was from the old town to Longmen Grottoes which could be around 30 Yuan. Of course there are public transports such as metro and bus, it is cheap but takes longer.
+
+You can ask the hostel staff and various taxi/uber drivers to get the actual price range for going somewhere a bit further away such as Longtan valley, Shaolin Temple and Laojun Mountain. It is quite easy even if you use Uber for a one-way trip and call another one for the return trip, but my experience is the cost could be quite similar, no more than 50 Yuan difference. So I recommended to book it for a return trip so you are more relaxed. Unless you plan to stay overnight, then a one-way Uber is more suitable.
 
 **Shaolin Temple**
 
