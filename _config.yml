@@ -1,9 +1,9 @@
 # Site settings
-title: Jessie Blog
-SEOTitle: 三山的博客 | Jessie Blog
+title: Jessie on the road
+SEOTitle: On the road | 三山的博客
 header-img: img/home-bg.jpg
 email: imrui.zhang@gmail.com
-description: "Travel in China | 全球自由行攻略"
+description: "Travel in China | Backpacking with kids | Nomad family on the way"
 keyword: "Blog, 博客, 个人网站, 旅行, Travel"
 url: "https://imruizhang.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'

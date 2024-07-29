@@ -28,7 +28,7 @@ I'm not going to write details about each place, because you can easily find tha
 
 - [Longmen Grottoes](https://en.wikipedia.org/wiki/Longmen_Grottoes) 
 ![img](/img/in-post/post-luoyang/longmen.jpeg){:height="40%" width="40%"}
-*Vairocana Budda. Photo by 曾宪平, from Luoyang Travel's Wechat Official Account.*
+*<font size="1">Vairocana Budda. Photo by 曾宪平, from Luoyang Travel's Wechat Official Account.</font>*
 
 A must see place in Luoyang, the downside is tooooo many people. Longmen Hill (aka West Hill) is the main place with statues and you have to enter from the north entrance and exit from the south entrance. You cannot enter from the south. In summer there is a light show after sunset, but it is a separate ticket. 
 
@@ -46,7 +46,7 @@ It has collections from the Xia, Shang and Zhou dynasties and the main exhibits 
 
 - [White Horse Temple](https://en.wikipedia.org/wiki/White_Horse_Temple)
 ![img](/img/in-post/post-luoyang/whitehorse.jpeg){:height="33%" width="33%"}
-*Photo by 王煜文, from Luoyang Travel's Wechat Official Account.*
+*<font size="1">Photo by 王煜文, from Luoyang Travel's Wechat Official Account.</font>*
 
 It is the first Buddhist Temple in China, established in Eastern Han dynasty.
 
