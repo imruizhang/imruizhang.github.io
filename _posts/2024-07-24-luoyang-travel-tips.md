@@ -40,7 +40,7 @@ Important note: except for the Xiangshan Temple, all the other sites close after
 
 - [Luoyang Museum](https://en.wikipedia.org/wiki/Luoyang_Museum)
 ![img](/img/in-post/post-luoyang/lymuseum.jpeg){:height="33%" width="33%"}
-*Photo by 杨恒博, from Luoyang Travel's Wechat Official Account.*
+*<font size="1">Photo by 杨恒博, from Luoyang Travel's Wechat Official Account.</font>*
 
 It has collections from the Xia, Shang and Zhou dynasties and the main exhibits are from the Han and Tang dynasties. It is the place where you could learn about the history back to 21centry BC.
 
