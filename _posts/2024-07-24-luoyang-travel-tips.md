@@ -27,7 +27,7 @@ I think a lot of people have heard of the Shaolin Temple and I saw a lot of visi
 I'm not going to write details about each place, because you can easily find that information on Wiki. I will give tips based on my first hand experience.
 
 1. [Longmen Grottoes](https://en.wikipedia.org/wiki/Longmen_Grottoes) 
-![img](/img/in-post/post-luoyang/longmen.jpg){:height="30%" width="30%"}
+![img](/img/in-post/post-luoyang/longmen.jpeg){:height="30%" width="30%"}
 *Vairocana Budda, from Luoyang Travel's Wechat Official Account. Photo by 曾宪平*
 
 A must see place in Luoyang, the downside is tooooo many people. Longmen Hill (aka West Hill) is the main place with statues and you have to enter from the north entrance and exit from the south entrance. You cannot enter from the south. In summer there is a light show after sunset, but it is a separate ticket and you have to book the night ticket.
@@ -39,7 +39,7 @@ Some say you can stay inside with the day ticket and enjoy the night show, but I
 Important note: except for the Xiangshan Temple, all the other sites close after 18:00. So you need to plan your trip very carefully. There are far fewer tourists at the East Hill Caves, but there are also fewer statues there. However, from the east side of the river you can get a good view of Longmen Hill.
 
 2. Luoyang Museum
-![img](/img/in-post/post-luoyang/lymuseum.jpg){:height="30%" width="30%"}
+![img](/img/in-post/post-luoyang/lymuseum.jpeg){:height="30%" width="30%"}
 *from Luoyang Travel's Wechat Official Account. Photo by 杨恒博*
 
 3. 
