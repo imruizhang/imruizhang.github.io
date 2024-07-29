@@ -39,13 +39,13 @@ Some say you can stay inside with the day ticket and enjoy the night show, but I
 Important note: except for the Xiangshan Temple, all the other sites close after 18:00. So you need to plan your trip very carefully. There are far fewer tourists at the East Hill Caves, but there are also fewer statues there. However, from the east side of the river you can get a good view of Longmen Hill.
 
 - [Luoyang Museum](https://en.wikipedia.org/wiki/Luoyang_Museum)
-![img](/img/in-post/post-luoyang/lymuseum.jpeg){:height="33%" width="33%"}
+![img](/img/in-post/post-luoyang/lymuseum.jpeg){:width="300"}
 *<font size="1">Photo by 杨恒博, from Luoyang Travel's Wechat Official Account.</font>*
 
 It has collections from the Xia, Shang and Zhou dynasties and the main exhibits are from the Han and Tang dynasties. It is the place where you could learn about the history back to 21centry BC.
 
 - [White Horse Temple](https://en.wikipedia.org/wiki/White_Horse_Temple)
-![img](/img/in-post/post-luoyang/whitehorse.jpeg){:height="33%" width="33%"}
+![img](/img/in-post/post-luoyang/whitehorse.jpeg){:width="300"}
 *<font size="1">Photo by 王煜文, from Luoyang Travel's Wechat Official Account.</font>*
 
 It is the first Buddhist Temple in China, established in Eastern Han dynasty.
