@@ -27,11 +27,11 @@ I think a lot of people have heard of the Shaolin Temple and I saw a lot of visi
 I'm not going to write details about each place, because you can easily find that information on Wiki. I will give tips based on my first hand experience.
 
 1. [Longmen Grottoes](https://en.wikipedia.org/wiki/Longmen_Grottoes) 
-![img](/img/in-post/post-luoyang/budda.jpg){:height="50%" width="50%"}
+![img](/img/in-post/post-luoyang/longmen.jpg){:height="30%" width="30%"}
 *Vairocana Budda, from Luoyang Travel's Wechat Official Account. Photo by xxx*
 
 2. Luoyang Museum
-![img](/img/in-post/post-luoyang/budda.jpg)
+![img](/img/in-post/post-luoyang/lymuseum.jpg){:height="30%" width="30%"}
 
 3. 
 
