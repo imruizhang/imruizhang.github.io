@@ -28,19 +28,21 @@ I'm not going to write details about each place, because you can easily find tha
 
 1. [Longmen Grottoes](https://en.wikipedia.org/wiki/Longmen_Grottoes) 
 ![img](/img/in-post/post-luoyang/longmen.jpeg){:height="30%" width="30%"}
-*Vairocana Budda, from Luoyang Travel's Wechat Official Account. Photo by 曾宪平*
+*Vairocana Budda. Photo by 曾宪平, from Luoyang Travel's Wechat Official Account.*
 
-A must see place in Luoyang, the downside is tooooo many people. Longmen Hill (aka West Hill) is the main place with statues and you have to enter from the north entrance and exit from the south entrance. You cannot enter from the south. In summer there is a light show after sunset, but it is a separate ticket and you have to book the night ticket.
+A must see place in Luoyang, the downside is tooooo many people. Longmen Hill (aka West Hill) is the main place with statues and you have to enter from the north entrance and exit from the south entrance. You cannot enter from the south. In summer there is a light show after sunset, but it is a separate ticket. 
 
-Nigh ticket: entry time 17:31-19:30, ticket office closes at 19:30. 
+The tickets are booked for three time slots: enter at 08:00-12:30/12:31-17:30/17:31-19:30. The ticket office closes at 19:30. 
 
-Some say you can stay inside with the day ticket and enjoy the night show, but I would recommend getting there at 17:30 so you can enjoy the day and night views at the same time. It takes a lot of energy to stay long if you get there too early. I went at around 15:30 and was exhausted before sunset and was on the east side of the river, I literally had no energy to walk back to the West entrance. 
+Some say you can stay inside with the day ticket and enjoy the night show, but I have not confirmed this by myself. It takes a lot of energy to stay long if you get there too early. I went at around 15:30 and was exhausted before sunset and was on the east side of the river, I literally had no energy to walk back to the West entrance. I would recommend getting there at 17:30 so you can enjoy the day and night views at the same time. However, if you are well prepared, you could start at around 15:00 and go to the East Hill Caves first and then walk north to the Xiangshan Temple, then cross the river and reach the entrance of Longmen Hill before 17:30. Then you could go in and wait for the lights to come on.
 
 Important note: except for the Xiangshan Temple, all the other sites close after 18:00. So you need to plan your trip very carefully. There are far fewer tourists at the East Hill Caves, but there are also fewer statues there. However, from the east side of the river you can get a good view of Longmen Hill.
 
-2. Luoyang Museum
+2. [Luoyang Museum](https://en.wikipedia.org/wiki/Luoyang_Museum)
 ![img](/img/in-post/post-luoyang/lymuseum.jpeg){:height="30%" width="30%"}
-*from Luoyang Travel's Wechat Official Account. Photo by 杨恒博*
+*Photo by 杨恒博, from Luoyang Travel's Wechat Official Account.*
+
+It has collections from the Xia, Shang and Zhou dynasties and the main exhibits are from the Han and Tang dynasties. It is the place where you could learn about the history back to 21centry BC.
 
 3. 
 
