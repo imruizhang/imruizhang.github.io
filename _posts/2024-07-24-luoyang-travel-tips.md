@@ -39,7 +39,7 @@ I'm not going to write details about each place, because you can easily find tha
 _Adult: 90 RMB. Free for < 13 and >= 60 years (with valid ID), children <140cm and annual pass holders (annual pass holders cannot enter after 6:00pm)._
 
 ![img](/img/in-post/post-luoyang/longmen1.jpg){:width="300"}
-*<font size="1">Vairocana Budda</font>*
+<center><font size="1">Vairocana Budda</font></center>
 
 A must see place in Luoyang, the downside is tooooo many people. Longmen Hill (aka West Hill) is the main place with statues and you have to enter from the north entrance and exit from the south entrance. You cannot enter from the south. In summer there is a light show after sunset, but it is a separate ticket. 
 
@@ -54,7 +54,7 @@ Important note: except for the Xiangshan Temple, all the other sites close after
 _Admission is free, but reservations are required. You need to book 3 days in advance to get a place (the reservation system opens at 7:00am)._
 
 ![img](/img/in-post/post-luoyang/lymuseum.jpeg){:width="300"}
-<font size="1">Photo by 杨恒博, from Luoyang Travel's Wechat Official Account.</font>
+<center><font size="1">Photo by 杨恒博, from Luoyang Travel's Wechat Official Account.</font></center>
 
 It has collections from the Xia, Shang and Zhou dynasties and the main exhibits are from the Han and Tang dynasties. It is the place where you could learn about the history back to 21centry BC.
 
@@ -65,12 +65,12 @@ There is a precious piece of the Buddha statue (only a partial face) and people 
 
 _Adult: 35 RMB. Free for < 13 and >= 60 years (reservation required if not a Chinese citizen), children <140cm and annual ticket holders._
 ![img](/img/in-post/post-luoyang/whitehorse.jpeg){:width="300"}
-<font size="1">Photo by 王煜文, from Luoyang Travel's Wechat Official Account.</font>
+<center><font size="1">Photo by 王煜文, from Luoyang Travel's Wechat Official Account.</font></center>
 
 It is the first Buddhist temple in China, built in the Eastern Han Dynasty. There are Indian, Thai and Myanmar style temples surrounding the main building. 
 
 There is a Budda Stupa (also known as Qiyun Pagoda), which was the first stupa in China.
-[img](/img/in-post/post-luoyang/whitehorse2.jpg){:width="300"}
+![img](/img/in-post/post-luoyang/whitehorse2.jpg){:width="300"}
 
 
 
