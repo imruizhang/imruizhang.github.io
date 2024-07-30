@@ -28,7 +28,7 @@ In China there is no Uber but Didi or Gaode/Baidu Maps, but I would use 'Uber' f
 
 You can get around the city with Uber with 10-15 Yuan (RMB) per trip, the longest ride was from the old town to Longmen Grottoes which could be around 30 Yuan. Of course there are public transports such as metro and bus, it is cheap but takes longer.
 
-You can ask the hostel staff and various taxi/uber drivers to get the actual price range for going somewhere a bit further away such as Longtan valley, Shaolin Temple and Laojun Mountain. It is quite easy even if you use Uber for a one-way trip and call another one for the return trip, but my experience is the cost could be quite similar, no more than 50 Yuan difference. So I recommended to book it for a return trip so you are more relaxed. Unless you plan to stay overnight, then a one-way Uber is more suitable.
+You can ask the hostel staff and various taxi/uber drivers to get the actual price range for going somewhere a bit further away such as Longtan Grand Canyon, Shaolin Temple and Mount Laojun. It is quite easy even if you use Uber for a one-way trip and call another one for the return trip, but my experience is the cost could be quite similar, no more than 50 Yuan difference. So I recommended to book it for a return trip so you are more relaxed. Unless you plan to stay overnight, then a one-way Uber is more suitable.
 
 ### Things to do in Luoyang
 
@@ -36,7 +36,7 @@ I'm not going to write details about each place, because you can easily find tha
 
 #### [Longmen Grottoes](https://en.wikipedia.org/wiki/Longmen_Grottoes) 
 
-_Admission: 90 RMB for adult. Free for < 13 and >= 60 years (with valid ID), children <140cm and annual pass holders (annual pass holders cannot enter after 6:00pm)._
+_Admission: 90 Yuan for adult. Free for < 13 and >= 60 years (with valid ID), children <140cm and annual pass holders (annual pass holders cannot enter after 6:00pm)._
 
 ![img](/img/in-post/post-luoyang/longmen1.jpg){:width="300"}
 <center><font size="1">Vairocana Budda</font></center>
@@ -51,7 +51,7 @@ Important note: except for the Xiangshan Temple, all the other sites close after
 
 #### [Luoyang Museum](https://en.wikipedia.org/wiki/Luoyang_Museum)
 
-_Admission is free, but reservations are required. You need to book 3 days in advance to get a place (the reservation system opens at 7:00am). An alternative way to reserve is to book a ticket for the Luoyang Zhouwangcheng Emperor Six Horses Carriage Museum (30 RMB), then a reservation to Luoyang Museum can be made while visiting this museum._
+_Admission is free, but reservations are required. You need to book 3 days in advance to get a place (the reservation system opens at 7:00am). An alternative way to reserve is to book a ticket for the Luoyang Zhouwangcheng Emperor Six Horses Carriage Museum (30 Yuan), then a reservation to Luoyang Museum can be made while visiting this museum._
 
 ![img](/img/in-post/post-luoyang/lymuseum.jpeg){:width="300"}
 <center><font size="1">Photo by 杨恒博, from Luoyang Travel's Wechat Official Account.</font></center>
@@ -63,7 +63,7 @@ There is a precious piece of the Buddha statue (only a partial face) and people 
 
 #### [White Horse Temple](https://en.wikipedia.org/wiki/White_Horse_Temple)
 
-_Admission: 35 RMB for adult. Free for < 13 and >= 60 years (reservation required if not a Chinese citizen), children <140cm and annual ticket holders._
+_Admission: 35 Yuan for adult. Free for < 13 and >= 60 years (reservation required if not a Chinese citizen), children <140cm and annual ticket holders._
 ![img](/img/in-post/post-luoyang/whitehorse.jpeg){:width="300"}
 <center><font size="1">Photo by 王煜文, from Luoyang Travel's Wechat Official Account.</font></center>
 
@@ -74,7 +74,7 @@ There is a Budda Stupa (also known as Qiyun Pagoda), which was the first stupa i
 
 #### Sui and Tang National Heritage Park
 
-_Admission: 90 RMB for adult. Free for < 13 and >= 60 years (with valid ID), children <140cm and annual pass holders._
+_Admission: 90 Yuan for adult. Free for < 13 and >= 60 years (with valid ID), children <140cm and annual pass holders._
 
 ![img](/img/in-post/post-luoyang/ttmt.jpeg){:width="300"}
 <center><font size="1">Photo by 曾宪平, from Luoyang Travel's Wechat Official Account.</font></center>
@@ -82,6 +82,8 @@ _Admission: 90 RMB for adult. Free for < 13 and >= 60 years (with valid ID), chi
 The Sui and Tang Luoyang City Tiantang Relic Site and the Sui and Tang Luoyang City Mingtang Relic Site were built on the actual ruins in 2009. The rebuilt Tiantang and Mingtang are 33.52 and 88.88 metres high respectively, much shorter than the original 91.43 and 312.09 metres (the original height was an assumption based on historical records).
 
 #### Mount Laojun
+
+_Admission: 100 Yuan for adult. Free for < 13 and >= 60 years (with valid ID), children <140cm and annual pass holders._
 
 ![img](/img/in-post/post-luoyang/laojun.jpg){:width="300"}
 
@@ -94,17 +96,17 @@ The accommodation is pretty expensive on the top, an economic option would be th
 
 #### [Longtan Grand Canyon](https://en.wikipedia.org/wiki/Longtan_Grand_Canyon)
 
-_Admission: 80 RMB for adult. Free for < 13 and >= 60 years (with valid ID), children <140cm and annual pass holders._
+_Admission: 80 Yuan for adult. Free for < 13 and >= 60 years (with valid ID), children <140cm and annual pass holders._
 
 ![img](/img/in-post/post-luoyang/longtan.jpg){:width="300"}
 
-Transport: 300-400 RMB / car (four passengers) for a round trip.
+Transport: 300-400 Yuan / car (four passengers) for a round trip.
 
-It is a 2h drive from Luoyang. It was a rainning day when I visited there, it has different touch in the rain. We took the minibus (70 RMB including the boat trip) to the end of the valley and walked our way out to the entry. Unfortunetly all the signs are meant to be read for people who walked their way into the valley, so they had no use if you went the other direction.
+It is a 2h drive from Luoyang. It was a rainning day when I visited there, it has different touch in the rain. We took the minibus (70 Yuan including the boat trip) to the end of the valley and walked our way out to the entry. Unfortunetly all the signs are meant to be read for people who walked their way into the valley, so they had no use if you went the other direction.
 
 #### [Hangu Pass](https://en.wikipedia.org/wiki/Hangu_Pass)
 
-_Admission: 40 RMB for adult. Free for < 13 and >= 60 years, children <140cm and annual ticket holders._
+_Admission: 40 Yuan for adult. Free for < 13 and >= 60 years, children <140cm and annual ticket holders._
 
 ![img](/img/in-post/post-luoyang/hgg.jpeg){:width="300"}
 <center><font size="1">Photo by 曾宪平, from Luoyang Travel's Wechat Official Account.</font></center>
@@ -117,16 +119,16 @@ The Qin Hangu Pass attracts more tourists because of Laozi (author of the Tao Te
 
 #### [Shaolin Temple](https://en.wikipedia.org/wiki/Shaolin_Monastery)
 
-_Admission: 80 RMB for adult. Free for < 13 and >= 60 years (with valid ID), children <140cm and annual pass holders._
+_Admission: 80 Yuan for adult. Free for < 13 and >= 60 years (with valid ID), children <140cm and annual pass holders._
 
 ![img](/img/in-post/post-luoyang/shaolin.jpg){:width="300"}
 
-Transport: 300-400 RMB / car (four passengers) for a round trip.
+Transport: 300-400 Yuan / car (four passengers) for a round trip.
 
 I was there when the 2024 Global Shaolin Games Finals ended on 14 July 2024. I was climbing up to the Bodhidharma Pavilion (chu'zu'an) and the Bodhidharma Cave (da'mo'dong) when the competition took place, and it was almost over by the time I got back to Shaolin Temple. The cave is not a popular place in the area, even the driver of the minibus did not suggest it as a destination. He only recommended that we go to Sanhuang Village, the Pagoda Forest and the Temple. Somehow the Chinese are getting more and more anxious to visit a place just to say they have been there once.
 
 The Pagoda Forest has 240 funerary pagodas of various sizes from the Tang, Song, Jin, Yuan, Ming and Qing dynasties.
 
-The best view is actually from Sanhuangzhai Scenic Spot (aka Sanhuang Village), it takes 10 minutes if you take the cable car (70 RMB) from the station nearby the Pagoda Forest. But there would be another 4 hours hike if you want to see more, I couldn't do it because we didn't have enough time and the walk is too much for younger children. I think a better route would be to take a taxi from the North Shaolin Temple Tourist Centre to the South Sanhuangzhai Tourist Centre, then change to a minibus (20 RMB) to the starting point of the walk. You would see the Songshan Buddhist Academy and the amazing mountain views. I don't have much to say, see with your eyes ^_^
+The best view is actually from Sanhuangzhai Scenic Spot (aka Sanhuang Village), it takes 10 minutes if you take the cable car (95 Yuan for a round trip) from the station nearby the Pagoda Forest. But there would be another 4 hours hike if you want to see more, I couldn't do it because we didn't have enough time and the walk is too much for younger children. I think a better route would be to take a taxi from the North Shaolin Temple Tourist Centre to the South Sanhuangzhai Tourist Centre, then change to a minibus (20 Yuan) to the starting point of the walk. You would see the Songshan Buddhist Academy and the amazing mountain views. I don't have much to say, see with your eyes ^_^
 
 ![img](/img/in-post/post-luoyang/shaolin2.jpg){:width="300"}
