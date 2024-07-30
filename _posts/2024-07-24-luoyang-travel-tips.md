@@ -81,6 +81,17 @@ _Admission: 90 RMB for adult. Free for < 13 and >= 60 years (with valid ID), chi
 
 The Sui and Tang Luoyang City Tiantang Relic Site and the Sui and Tang Luoyang City Mingtang Relic Site were built on the actual ruins in 2009. The rebuilt Tiantang and Mingtang are 33.52 and 88.88 metres high respectively, much shorter than the original 91.43 and 312.09 metres (the original height was an assumption based on historical records).
 
+### Laojun Mountain
+
+![img](/img/in-post/post-luoyang/laojun.jpg){:width="300"}
+
+### [Longtan Grand Canyon](https://en.wikipedia.org/wiki/Longtan_Grand_Canyon)
+
+_Admission: 80 RMB for adult. Free for < 13 and >= 60 years (with valid ID), children <140cm and annual pass holders._
+
+![img](/img/in-post/post-luoyang/longtan.jpg){:width="300"}
+
+It is a 2h drive from Luoyang. It was a rainning day when I visited there, it has different touch in the rain. We took the minibus (70 RMB including the boat trip) to the end of the valley and walked our way out to the entry. Unfortunetly all the signs are meant to be read for people who walked their way into the valley, so they had no use if you went the other direction.
 
 ### [Hangu Pass](https://en.wikipedia.org/wiki/Hangu_Pass)
 
@@ -91,15 +102,11 @@ _Admission: 40 RMB for adult. Free for < 13 and >= 60 years, children <140cm and
 
 Historically, there are three Hangu Passes, this one was the Han Hangu Pass. Qin Hangu Pass and Wei Hangu Pass are also located in Henan Province. The geographical changes caused by the Yellow River made it necessary to move the pass to another location.
 
-### Laojun Mountain
+This place is on the way to Longtan Grand Canyon, so you could plan and visit them together on the same day. I think this place has been forgotten because it was really quiet and I only saw a few tourists. In 2014, this archaeological site was recognised by UNESCO as part of the "Silk Roads: the Routes Network of the Chang'an-Tianshan Corridor" World Heritage Site. It was rebuilt in 1923 by Mr. Fang Zhang.
 
-![img](/img/in-post/post-luoyang/laojun.jpg){:width="300"}
+The Qin Hangu Pass attracts more tourists because of Laozi (author of the Tao Te Ching), who is said to have written the Tao Te Ching here before travelling west. The local government rebuilt this place in 1992.
 
-### Longtan Valley
-
-_Admission: 80 RMB for adult. Free for < 13 and >= 60 years (with valid ID), children <140cm and annual pass holders._
-
-### Shaolin Temple**
+### Shaolin Temple
 
 ![img](/img/in-post/post-luoyang/shaolin.jpg){:width="300"}
 
