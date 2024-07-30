@@ -36,7 +36,7 @@ I'm not going to write details about each place, because you can easily find tha
 
 #### [Longmen Grottoes](https://en.wikipedia.org/wiki/Longmen_Grottoes) 
 
-_Adult: 90 RMB. Free for < 13 and >= 60 years (with valid ID), children <140cm and annual pass holders (annual pass holders cannot enter after 6:00pm)._
+_Admission: 90 RMB for adult. Free for < 13 and >= 60 years (with valid ID), children <140cm and annual pass holders (annual pass holders cannot enter after 6:00pm)._
 
 ![img](/img/in-post/post-luoyang/longmen1.jpg){:width="300"}
 <center><font size="1">Vairocana Budda</font></center>
@@ -51,7 +51,7 @@ Important note: except for the Xiangshan Temple, all the other sites close after
 
 #### [Luoyang Museum](https://en.wikipedia.org/wiki/Luoyang_Museum)
 
-_Admission is free, but reservations are required. You need to book 3 days in advance to get a place (the reservation system opens at 7:00am)._
+_Admission is free, but reservations are required. You need to book 3 days in advance to get a place (the reservation system opens at 7:00am). An alternative way to reserve is to book a ticket for the Luoyang Zhouwangcheng Emperor Six Horses Carriage Museum, then a reservation to Luoyang Museum can be made while visiting this museum._
 
 ![img](/img/in-post/post-luoyang/lymuseum.jpeg){:width="300"}
 <center><font size="1">Photo by 杨恒博, from Luoyang Travel's Wechat Official Account.</font></center>
@@ -63,7 +63,7 @@ There is a precious piece of the Buddha statue (only a partial face) and people 
 
 #### [White Horse Temple](https://en.wikipedia.org/wiki/White_Horse_Temple)
 
-_Adult: 35 RMB. Free for < 13 and >= 60 years (reservation required if not a Chinese citizen), children <140cm and annual ticket holders._
+_Admission: 35 RMB for adult. Free for < 13 and >= 60 years (reservation required if not a Chinese citizen), children <140cm and annual ticket holders._
 ![img](/img/in-post/post-luoyang/whitehorse.jpeg){:width="300"}
 <center><font size="1">Photo by 王煜文, from Luoyang Travel's Wechat Official Account.</font></center>
 
@@ -74,10 +74,26 @@ There is a Budda Stupa (also known as Qiyun Pagoda), which was the first stupa i
 
 #### Sui and Tang National Heritage Park
 
+![img](/img/in-post/post-luoyang/ttmt.jpeg){:width="300"}
+<center><font size="1">Photo by 曾宪平, from Luoyang Travel's Wechat Official Account.</font></center>
+
 The Sui and Tang Luoyang City Tiantang Relic Site and the Sui and Tang Luoyang City Mingtang Relic Site were built on the actual ruins in 2009. The rebuilt Tiantang and Mingtang are 33.52 and 88.88 metres high respectively, much shorter than the original 91.43 and 312.09 metres (the original height was an assumption based on historical records).
 
 
-**Shaolin Temple**
+### Hangu guan
+
+![img](/img/in-post/post-luoyang/hgg.jpeg){:width="300"}
+<center><font size="1">Photo by 曾宪平, from Luoyang Travel's Wechat Official Account.</font></center>
+
+### Laojun Mountain
+
+![img](/img/in-post/post-luoyang/laojun.jpg){:width="300"}
+
+### Longtan Valley
+
+### Shaolin Temple**
+
+![img](/img/in-post/post-luoyang/shaolin.jpg){:width="300"}
 
 Cost: 300-400 RMB / car (four seats) for a round trip.
 
