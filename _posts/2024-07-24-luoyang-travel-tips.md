@@ -20,7 +20,7 @@ To be honest, I am writing this in the hope that more Chinese people will get to
 
 ### Where is Luoyang?
 
-I think a lot of people have heard of the Shaolin Temple and I saw a lot of visitors when I was there last week. Luoyang is a city near Songshan Mountain, about 1.5 hours by car. Actually, the Shaolin Temple is closer to Luoyang than to Zhengzhou, the capital of Hunan Province. Luoyang is easily accessible by high-speed train from major cities, taking about 6 hours from Guangzhou/Shanghai and only 3 hours from Beijing.
+I think a lot of people have heard of the Shaolin Temple. Luoyang is a city near the Shaolin Temple, about 1.5 hours by car. Actually, the Shaolin Temple is closer to Luoyang than to Zhengzhou, the capital of Hunan Province. Luoyang is easily accessible by high-speed train from major cities, taking about 6 hours from Guangzhou/Shanghai and only 3 hours from Beijing.
 
 ### Tips for transports
 
@@ -81,15 +81,24 @@ _Admission: 90 RMB for adult. Free for < 13 and >= 60 years (with valid ID), chi
 
 The Sui and Tang Luoyang City Tiantang Relic Site and the Sui and Tang Luoyang City Mingtang Relic Site were built on the actual ruins in 2009. The rebuilt Tiantang and Mingtang are 33.52 and 88.88 metres high respectively, much shorter than the original 91.43 and 312.09 metres (the original height was an assumption based on historical records).
 
-### Laojun Mountain
+### Mount Laojun
 
 ![img](/img/in-post/post-luoyang/laojun.jpg){:width="300"}
+
+Make sure you search the one in Henan, apparently there is another Mount Laojun in Yunnan but I've never heard about it.
+
+> Along with the Jiguan Cave, the mountain forms part of a tourist scenic area that is rated as AAAAA, the highest category in the tourist rating system. Historically, the mountain was a retreat for Laozi, the founder of Taoism. (from Wikipedia)
+
+The accommodation is pretty expensive on the top, an economic option would be the youth hostel which costs 150 Yuan per bed.
+
 
 ### [Longtan Grand Canyon](https://en.wikipedia.org/wiki/Longtan_Grand_Canyon)
 
 _Admission: 80 RMB for adult. Free for < 13 and >= 60 years (with valid ID), children <140cm and annual pass holders._
 
 ![img](/img/in-post/post-luoyang/longtan.jpg){:width="300"}
+
+Transport: 300-400 RMB / car (four passengers) for a round trip.
 
 It is a 2h drive from Luoyang. It was a rainning day when I visited there, it has different touch in the rain. We took the minibus (70 RMB including the boat trip) to the end of the valley and walked our way out to the entry. Unfortunetly all the signs are meant to be read for people who walked their way into the valley, so they had no use if you went the other direction.
 
@@ -106,11 +115,18 @@ This place is on the way to Longtan Grand Canyon, so you could plan and visit th
 
 The Qin Hangu Pass attracts more tourists because of Laozi (author of the Tao Te Ching), who is said to have written the Tao Te Ching here before travelling west. The local government rebuilt this place in 1992.
 
-### Shaolin Temple
+### [Shaolin Temple](https://en.wikipedia.org/wiki/Shaolin_Monastery)
+
+_Admission: 80 RMB for adult. Free for < 13 and >= 60 years (with valid ID), children <140cm and annual pass holders._
 
 ![img](/img/in-post/post-luoyang/shaolin.jpg){:width="300"}
 
-Cost: 300-400 RMB / car (four seats) for a round trip.
+Transport: 300-400 RMB / car (four passengers) for a round trip.
 
-I was there when the 2024 Global Shaolin Games Finals conclued, on 14 July 2024. I was climbing up to the Bodhidharma Pavilion (chu'zu'an) and the Bodhidharma Cave (da'mo'dong) when the competition happened, and it had almost finished while I in front of the Shaolin Temple after visiting the Bodhidharma Cave. The cave is not a popular site within the area, even the drivers for minibus did not suggest this destination. He only recommended us to go to the xxx and the temple. Somehow the Chinese are more and more anxious and just visit a place to declare that they have been there once.
+I was there when the 2024 Global Shaolin Games Finals ended on 14 July 2024. I was climbing up to the Bodhidharma Pavilion (chu'zu'an) and the Bodhidharma Cave (da'mo'dong) when the competition took place, and it was almost over by the time I got back to Shaolin Temple. The cave is not a popular place in the area, even the driver of the minibus did not suggest it as a destination. He only recommended that we go to Sanhuang Village, the Pagoda Forest and the Temple. Somehow the Chinese are getting more and more anxious to visit a place just to say they have been there once.
 
+The Pagoda Forest has 240 funerary pagodas of various sizes from the Tang, Song, Jin, Yuan, Ming and Qing dynasties.
+
+The best view is actually from Sanhuangzhai Scenic Spot (aka Sanhuang Village), it takes 10 minutes if you take the cable car (70 RMB) from the station nearby the Pagoda Forest. But there would be another 4 hours hike if you want to see more, I couldn't do it because we didn't have enough time and the walk is too much for younger children. I think a better route would be to take a taxi from the North Shaolin Temple Tourist Centre to the South Sanhuangzhai Tourist Centre, then change to a minibus (20 RMB) to the starting point of the walk. You would see the Songshan Buddhist Academy and the amazing mountain views. I don't have much to say, see with your eyes ^_^
+
+![img](/img/in-post/post-luoyang/shaolin2.jpg){:width="300"}
