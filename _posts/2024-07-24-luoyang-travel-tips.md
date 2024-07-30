@@ -51,7 +51,7 @@ Important note: except for the Xiangshan Temple, all the other sites close after
 
 #### [Luoyang Museum](https://en.wikipedia.org/wiki/Luoyang_Museum)
 
-_Admission is free, but reservations are required. You need to book 3 days in advance to get a place (the reservation system opens at 7:00am). An alternative way to reserve is to book a ticket for the Luoyang Zhouwangcheng Emperor Six Horses Carriage Museum, then a reservation to Luoyang Museum can be made while visiting this museum._
+_Admission is free, but reservations are required. You need to book 3 days in advance to get a place (the reservation system opens at 7:00am). An alternative way to reserve is to book a ticket for the Luoyang Zhouwangcheng Emperor Six Horses Carriage Museum (30 RMB), then a reservation to Luoyang Museum can be made while visiting this museum._
 
 ![img](/img/in-post/post-luoyang/lymuseum.jpeg){:width="300"}
 <center><font size="1">Photo by 杨恒博, from Luoyang Travel's Wechat Official Account.</font></center>
@@ -74,22 +74,30 @@ There is a Budda Stupa (also known as Qiyun Pagoda), which was the first stupa i
 
 #### Sui and Tang National Heritage Park
 
+_Admission: 90 RMB for adult. Free for < 13 and >= 60 years (with valid ID), children <140cm and annual pass holders._
+
 ![img](/img/in-post/post-luoyang/ttmt.jpeg){:width="300"}
 <center><font size="1">Photo by 曾宪平, from Luoyang Travel's Wechat Official Account.</font></center>
 
 The Sui and Tang Luoyang City Tiantang Relic Site and the Sui and Tang Luoyang City Mingtang Relic Site were built on the actual ruins in 2009. The rebuilt Tiantang and Mingtang are 33.52 and 88.88 metres high respectively, much shorter than the original 91.43 and 312.09 metres (the original height was an assumption based on historical records).
 
 
-### Hangu guan
+### [Hangu Pass](https://en.wikipedia.org/wiki/Hangu_Pass)
+
+_Admission: 40 RMB for adult. Free for < 13 and >= 60 years, children <140cm and annual ticket holders._
 
 ![img](/img/in-post/post-luoyang/hgg.jpeg){:width="300"}
 <center><font size="1">Photo by 曾宪平, from Luoyang Travel's Wechat Official Account.</font></center>
+
+Historically, there are three Hangu Passes, this one was the Han Hangu Pass. Qin Hangu Pass and Wei Hangu Pass are also located in Henan Province. The geographical changes caused by the Yellow River made it necessary to move the pass to another location.
 
 ### Laojun Mountain
 
 ![img](/img/in-post/post-luoyang/laojun.jpg){:width="300"}
 
 ### Longtan Valley
+
+_Admission: 80 RMB for adult. Free for < 13 and >= 60 years (with valid ID), children <140cm and annual pass holders._
 
 ### Shaolin Temple**
 
