@@ -102,7 +102,7 @@ _Admission: 40 RMB for adult. Free for < 13 and >= 60 years, children <140cm and
 
 Historically, there are three Hangu Passes, this one was the Han Hangu Pass. Qin Hangu Pass and Wei Hangu Pass are also located in Henan Province. The geographical changes caused by the Yellow River made it necessary to move the pass to another location.
 
-This place is on the way to Longtan Grand Canyon, so you could plan and visit them together on the same day. I think this place has been forgotten because it was really quiet and I only saw a few tourists. In 2014, this archaeological site was recognised by UNESCO as part of the "Silk Roads: the Routes Network of the Chang'an-Tianshan Corridor" World Heritage Site. It was rebuilt in 1923 by Mr. Fang Zhang.
+This place is on the way to Longtan Grand Canyon, so you could plan and visit them together on the same day. I think this place has been forgotten because it was really quiet and I only saw a few tourists. In 2014, this archaeological site was recognised by UNESCO as part of the "Silk Roads: the Routes Network of the Chang'an-Tianshan Corridor" World Heritage Site. The Pass was rebuilt in 1923 by Mr Fang Zhang. The recent excavation discovered several roads, platforms and walls around it.
 
 The Qin Hangu Pass attracts more tourists because of Laozi (author of the Tao Te Ching), who is said to have written the Tao Te Ching here before travelling west. The local government rebuilt this place in 1992.
 
