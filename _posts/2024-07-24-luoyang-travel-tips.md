@@ -34,7 +34,7 @@ You can ask the hostel staff and various taxi/uber drivers to get the actual pri
 
 I'm not going to write details about each place, because you can easily find that information on Wiki. I will give tips based on my first hand experience.
 
-- [Longmen Grottoes](https://en.wikipedia.org/wiki/Longmen_Grottoes) 
+#### [Longmen Grottoes](https://en.wikipedia.org/wiki/Longmen_Grottoes) 
 
 _Adult: 90 RMB. Free for < 13 and >= 60 years (with valid ID), children <140cm and annual pass holders (annual pass holders cannot enter after 6:00pm)._
 
@@ -49,7 +49,7 @@ Some say you can stay inside with the day ticket and enjoy the night show, but I
 
 Important note: except for the Xiangshan Temple, all the other sites close after 18:00. So you need to plan your trip very carefully. There are far fewer tourists at the East Hill Caves, but there are also fewer statues there. However, from the east side of the river you can get a good view of Longmen Hill.
 
-- [Luoyang Museum](https://en.wikipedia.org/wiki/Luoyang_Museum)
+#### [Luoyang Museum](https://en.wikipedia.org/wiki/Luoyang_Museum)
 
 _Admission is free, but reservations are required. You need to book 3 days in advance to get a place (the reservation system opens at 7:00am)._
 
@@ -61,7 +61,7 @@ It has collections from the Xia, Shang and Zhou dynasties and the main exhibits 
 There is a precious piece of the Buddha statue (only a partial face) and people think that the smile is very calming and represents the peaceful mind of Buddhism.
 ![img](/img/in-post/post-luoyang/lymuseum2.jpg){:width="300"}
 
-- [White Horse Temple](https://en.wikipedia.org/wiki/White_Horse_Temple)
+#### [White Horse Temple](https://en.wikipedia.org/wiki/White_Horse_Temple)
 
 _Adult: 35 RMB. Free for < 13 and >= 60 years (reservation required if not a Chinese citizen), children <140cm and annual ticket holders._
 ![img](/img/in-post/post-luoyang/whitehorse.jpeg){:width="300"}
@@ -72,6 +72,9 @@ It is the first Buddhist temple in China, built in the Eastern Han Dynasty. Ther
 There is a Budda Stupa (also known as Qiyun Pagoda), which was the first stupa in China.
 ![img](/img/in-post/post-luoyang/whitehorse2.jpg){:width="300"}
 
+#### Sui and Tang National Heritage Park
+
+The Sui and Tang Luoyang City Tiantang Relic Site and the Sui and Tang Luoyang City Mingtang Relic Site were built on the actual ruins in 2009. The rebuilt Tiantang and Mingtang are 33.52 and 88.88 metres high respectively, much shorter than the original 91.43 and 312.09 metres (the original height was an assumption based on historical records).
 
 
 **Shaolin Temple**
