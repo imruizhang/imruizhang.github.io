@@ -132,3 +132,16 @@ The Pagoda Forest has 240 funerary pagodas of various sizes from the Tang, Song,
 The best view is actually from Sanhuangzhai Scenic Spot (aka Sanhuang Village), it takes 10 minutes if you take the cable car (95 Yuan for a round trip) from the station nearby the Pagoda Forest. But there would be another 4 hours hike if you want to see more, I couldn't do it because we didn't have enough time and the walk is too much for younger children. I think a better route would be to take a taxi from the North Shaolin Temple Tourist Centre to the South Sanhuangzhai Tourist Centre, then change to a minibus (20 Yuan) to the starting point of the walk. You would see the Songshan Buddhist Academy and the amazing mountain views. I don't have much to say, see with your eyes ^_^
 
 ![img](/img/in-post/post-luoyang/shaolin2.jpg){:width="300"}
+
+
+### Local food worth to try
+
+No, they don't speak English. Lunch is served until 2pm and dinner starts at 5pm. Also, Google Map does not work in China, more importantly, the information is not up to date.
+
+#### Luoyang city centre
+
+- Xiaozhi Brewis aka beef soup (小治东关甜牛肉汤, No. 19 Wan'an Street). This is for breakfast. You will know it when you enter this street. You would see people cueing up there. There's a "sweet" in the name of the dish, but that doesn't mean they've added sugar. The sweetness is the original beef flavour. You can choose from a wide range of prices (from 8 RMB to 30 RMB) that represent the amount of beef in the soup.
+
+- Lvji Stir-fried Chicken Saute Spicy Chicken (吕记炒鸡大盘鸡, No.3 Luopu Road, Xigong District). The restaurant is small and there are many restaurants on the same street, so make sure you find the right one. Order by the weight of the chicken. Three adults would need 1.5 kilos.
+
+- Yantianxia (宴天下). This is a local chain restaurant, but each one serves a different type of food. We tried two and both are good. 
