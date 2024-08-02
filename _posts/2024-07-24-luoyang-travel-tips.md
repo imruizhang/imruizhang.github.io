@@ -2,10 +2,8 @@
 layout: post
 title: Luoyang - The capital of 13 dynasty in Chinese history
 subtitle:   " \"十三朝古都洛阳\""
-date:       2024-07-24 12:00:00
 author:     "Jessie"
-header-img: "img/post-bg-2015.jpg"
-comments: true
+header-style: text
 tags:
     - Travel
     - China
