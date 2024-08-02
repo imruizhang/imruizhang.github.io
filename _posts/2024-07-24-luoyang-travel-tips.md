@@ -11,7 +11,7 @@ tags:
 
 There are so many destinations that are not as well known to people outside China as Beijing or Yangshuo. Why did I mention Yangshuo? Because I knew someone who went there just for climbing, I think it should be a popular destination for people outside of China. Also, the people of Yangshuo have already hosted so many foreigners when I was there almost 20 years ago.
 
-**A general note: DO NOT visit popular sites during the National Golden Week (usually 1 Oct to 7 Oct).**
+**A general note: DO NOT visit popular sites during the National Golden Week (usually from 1 Oct to 7 Oct).**
 
 ### Why Luoyang?
 
